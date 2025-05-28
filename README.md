@@ -32,7 +32,7 @@ Ferramentas & Plataformas: <br>
  Dominar de forma definitiva o que já aprendi <br> 
  Compartilhar conhecimento <br> 
 
- 🤝 Contatos!
+ 🤝 Entre em contato comigo!
  <div align="center">
   <a href=(https://www.linkedin.com/in/daniel-silva-dantas-de-souza-041342322/) target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
