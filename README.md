@@ -28,9 +28,8 @@ Ferramentas & Plataformas: <br>
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> 
 
 🌐 Idiomas: <br> 
-   <img src = "https://img.shields.io/badge/-Portugu%C3%AAs-009739?style=flat-square&logo=brazil&logoColor=white"/> <img src="https://img.shields.io/badge/-Nativo-22f04b?style=flat-square&logo=unitedkingdom&logoColor=white"/> <br>
-   ​<img src = "https://img.shields.io/badge/-Ingl%C3%AAs-012169?style=flat-square&logo=unitedkingdom&logoColor=white"/> <img src = "https://img.shields.io/badge/-Fluente-100d66?style=flat-square&logo=unitedkingdom&logoColor=white" /> <br> 
-   <img src = "https://img.shields.io/badge/-Russo-0036A7?style=flat-square&logo=russia&logoColor=white"/> <img src = "https://img.shields.io/badge/-Básico-ba1111?style=flat-square&logo=unitedkingdom&logoColor=white" />
+   <img src = "https://img.shields.io/badge/-Portugu%C3%AAs-009739?style=flat-square&logo=brazil&logoColor=white"/><img src="https://img.shields.io/badge/-Nativo-22f04b?style=flat-square&logo=unitedkingdom&logoColor=white"/> ​<img src = "https://img.shields.io/badge/-Ingl%C3%AAs-012169?style=flat-square&logo=unitedkingdom&logoColor=white"/><img src = "https://img.shields.io/badge/-Fluente-100d66?style=flat-square&logo=unitedkingdom&logoColor=white"/> <img src = "https://img.shields.io/badge/-Russo-0036A7?style=flat-square&logo=russia&logoColor=white"/><img src = "https://img.shields.io/badge/-Básico-ba1111?style=flat-square&logo=unitedkingdom&logoColor=white" /> <br> 
+   
 
 🎯 Objetivos para 2025: <br> 
  Aprender duas novas linguagens de programação <br> 
