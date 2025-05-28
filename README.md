@@ -1,6 +1,6 @@
 Olá! 👋 Eu sou Daniel
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Apaixonado+por+Tecnologia;Sempre+Aprendendo!&center=true&size=30&color=58A6FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines= Apaixonado+por+Tecnologia;Sempre+Aprendendo!&center=true&size=30&color=58A6FF">
 </div>
 🚀 Sobre mim
 
