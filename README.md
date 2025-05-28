@@ -4,34 +4,34 @@ Olá! 👋 Eu sou Daniel
 </div>
 🚀 Sobre mim
 
-🌱 Aprendendo JavaScript 
-👯 Procurando colaborar em projetos open source
-💬 Me pergunte sobre JavaScript, Python, C, SQL, HTML, CSS
-📫 Como me encontrar: daniel.souzadantas07@gmail.com
+🌱 Aprendendo JavaScript <br> 
+👯 Procurando colaborar em projetos open source <br>
+💬 Me pergunte sobre JavaScript, Python, C, SQL, HTML, CSS <br> 
+📫 Como me encontrar: daniel.souzadantas07@gmail.com <br>
 
 🛠️ Tecnologias & Ferramentas
-Frontend
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+Frontend: <br> 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"> <br> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <br> 
 
-Backend
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+Backend: <br> 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <br>
 
-Banco de Dados
-<img src ="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+Banco de Dados:
+<img src ="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <br>
 
-Ferramentas & Plataformas
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+Ferramentas & Plataformas: <br> 
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/> <br> 
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <br> 
 
-🎯 Objetivos para 2025
+🎯 Objetivos para 2025 <br> 
 
- Aprender duas novas linguagens de programação
- Criar um projeto pessoal usandos as mesmas
- Dominar de forma definitiva o que já aprendi 
- Compartilhar conhecimento
+ Aprender duas novas linguagens de programação <br> 
+ Criar um projeto pessoal usandos as mesmas <br> 
+ Dominar de forma definitiva o que já aprendi <br> 
+ Compartilhar conhecimento <br> 
 
  🤝 Vamos nos conectar!
  <div align="center">
