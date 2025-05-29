@@ -40,7 +40,7 @@ Ferramentas & Plataformas: <br>
 
  🤝 Entre em contato comigo!
  <div align="center">
-  <a href=(https://www.linkedin.com/in/daniel-silva-dantas-de-souza-041342322/) target="_blank">
+  <a href=https://www.linkedin.com/in/daniel-silva-dantas-de-souza-041342322/ target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
