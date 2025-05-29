@@ -29,6 +29,9 @@ Ferramentas & Plataformas: <br>
 
 🌐 Idiomas: <br> 
    <img src = "https://img.shields.io/badge/-Portugu%C3%AAs-009739?style=flat-square&logo=brazil&logoColor=white"/><img src="https://img.shields.io/badge/-Nativo-f2ee05?style=flat-square&logo=unitedkingdom&logoColor=white"/> ​<img src = "https://img.shields.io/badge/-Ingl%C3%AAs-012169?style=flat-square&logo=unitedkingdom&logoColor=white"/><img src = "https://img.shields.io/badge/-Fluente-f7f5f5?style=flat-square&logo=unitedkingdom&logoColor=white"/> <img src = "https://img.shields.io/badge/-Russo-0036A7?style=flat-square&logo=russia&logoColor=white"/><img src = "https://img.shields.io/badge/-Básico-ba1111?style=flat-square&logo=unitedkingdom&logoColor=white" /> <br> 
+
+⭐Experiências: <br>
+<img src = "https://raw.githubusercontent.com/Dnts77/Dnts77/main/assets/mostratech.png" />
    
 
 🎯 Objetivos para 2025: <br> 
