@@ -26,6 +26,7 @@ Banco de Dados: <br>
 Ferramentas & Plataformas: <br> 
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 🌐 Idiomas: <br> 
    <img src = "https://img.shields.io/badge/-Portugu%C3%AAs-009739?style=flat-square&logo=brazil&logoColor=white"/><img src="https://img.shields.io/badge/-Nativo-f2ee05?style=flat-square&logo=unitedkingdom&logoColor=white"/> ​<img src = "https://img.shields.io/badge/-Ingl%C3%AAs-012169?style=flat-square&logo=unitedkingdom&logoColor=white"/><img src = "https://img.shields.io/badge/-Fluente-f7f5f5?style=flat-square&logo=unitedkingdom&logoColor=white"/> <img src = "https://img.shields.io/badge/-Russo-0036A7?style=flat-square&logo=russia&logoColor=white"/><img src = "https://img.shields.io/badge/-Iniciante-ba1111?style=flat-square&logo=unitedkingdom&logoColor=white" /> <br> 
