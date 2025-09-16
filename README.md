@@ -4,7 +4,7 @@ Olá! 👋 Eu sou Daniel
 </div> <br> 
 🚀 Sobre mim: <br> <br> 
 
-🌱 Aprendendo C++ <br> 
+🌱 Aprendendo C++ e Java <br> 
 👯 Procurando colaborar em projetos open source <br>
 💬 Me pergunte sobre JavaScript, Python, C, SQL, HTML, CSS <br> 
 📫 Como me encontrar: daniel.souzadantas07@gmail.com <br>
