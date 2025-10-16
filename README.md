@@ -1,3 +1,7 @@
+Olá! 👋 Eu sou Daniel
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Apaixonado+por+Tecnologia;Sempre+Aprendendo!&center=true&size=25&color=58A6FF">
+</div> <br> 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Apaixonado+por+Tecnologia;Sempre+Aprendendo!&center=true&size=25&color=58A6FF">
 </div>
