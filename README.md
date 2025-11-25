@@ -10,7 +10,7 @@ Olá! 👋 Eu sou Daniel
 
 <br>
 
-🌱 Aprendendo C++ e Java <br>
+🌱 Aprendendo Dart e o framework Flutter <br>
 👯 Procurando colaborar em projetos open source <br>
 💬 Me pergunte sobre JavaScript, Python, C, SQL, HTML, CSS <br>
 📫 Como me encontrar: daniel.souzadantas07@gmail.com <br>
