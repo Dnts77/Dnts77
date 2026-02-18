@@ -32,7 +32,7 @@ focus:
 
 currently_learning:
   - Flutter (Udemy)
-  - Expanding the stack in 2025 🔥
+  - Expanding the stack in 2026 🔥
 
 fun_fact: >
   Some techs on my stack are goals,
@@ -81,7 +81,7 @@ fun_fact: >
 ## ⚡ Tech Stack
 
 <div align="center">
-<sub>🎯 = technologies I'm actively working towards in 2025</sub>
+<sub>🎯 = technologies I'm actively working towards in 2026</sub>
 </div>
 
 <br/>
