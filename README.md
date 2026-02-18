@@ -69,8 +69,8 @@ fun_fact: >
 |  | Institution | What | When |
 |--|--|--|--|
 | 🏫 | **Eniac — Centro de Excelência** | Ensino Médio Técnico em Informática | 2024 – 2026 |
-| 🎨 | **Eniac** | UI/UX Design | ✅ Done |
-| ⚙️ | **Eniac** | Node.js for Backend | ✅ Done |
+| 🎨 | **Eniac — Centro de Excelência** | UI/UX Design | ✅ Done |
+| ⚙️ | **Eniac — Centro de Excelência** | Node.js for Backend | ✅ Done |
 | 📱 | **Udemy** | Flutter — Mobile Development | 🔄 Ongoing |
 | ☁️ | **AWS** | Introductory Machine Learning | ✅ Done |
 
