@@ -94,7 +94,7 @@ fun_fact: >
 | 📱 **Mobile** | [![Mobile](https://skillicons.dev/icons?i=java,flutter,kotlin)](https://skillicons.dev) 🎯 |
 | 🎨 **Frontend** | [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev) 🎯 |
 | ⚙️ **Back-end** | [![Backend](https://skillicons.dev/icons?i=java,python,nodejs,ruby)](https://skillicons.dev) |
-| 🚀 **Full Stack** | [![FullStack](https://skillicons.dev/icons?i=java,ts,tailwind,spring)](https://skillicons.dev) 🎯 |
+| 🚀 **Full Stack** | [![FullStack](https://skillicons.dev/icons?i=java,react,tailwind,spring)](https://skillicons.dev) 🎯 |
 | 🖥️ **Systems & Low Level** | [![Systems](https://skillicons.dev/icons?i=c,windows,git)](https://skillicons.dev) |
 | 🤖 **Data / AI** | [![DataAI](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev) 🎯 |
 
