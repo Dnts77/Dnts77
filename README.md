@@ -127,9 +127,9 @@ fun_fact: >
 
 | 🌐 | Language | Level | Fluency |
 |---|---|---|---|
-| 🇧🇷 | Português | Nativo | ⭐⭐⭐⭐⭐ |
+| 🇧🇷 | Português | Native | ⭐⭐⭐⭐⭐ |
 | 🇺🇸 | English | Fluent | ⭐⭐⭐⭐⭐|
-| 🇷🇺 | Русский | Básico | ⭐⭐ |
+| 🇷🇺 | Русский | Basics | ⭐⭐ |
 
 </div>
 
