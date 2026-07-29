@@ -71,7 +71,7 @@ fun_fact: >
 | 🏫 | **Eniac — Centro de Excelência** | Ensino Médio Técnico em Informática | 2024 – 2026 |
 | 🎨 | **Eniac — Centro de Excelência** | UI/UX Design | ✅ Done |
 | ⚙️ | **Eniac — Centro de Excelência** | Node.js for Backend | ✅ Done |
-| 📱 | **Udemy** | Flutter — Mobile Development | 🔄 Ongoing |
+| 📱 | **Udemy** | Flutter — Mobile Development | ✅ Done |
 | ☁️ | **AWS** | Introductory Machine Learning | ✅ Done |
 
 </div>
@@ -92,7 +92,7 @@ fun_fact: >
 | Layer | Stack |
 |---|---|
 | 📱 **Mobile** | [![Mobile](https://skillicons.dev/icons?i=java,flutter,kotlin)](https://skillicons.dev) 🎯 |
-| 🎨 **Frontend** | [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev) 🎯 |
+| 🎨 **Frontend** | [![Frontend](https://skillicons.dev/icons?i=astro,react,tailwind,ts,js,nextjs)](https://skillicons.dev) 🎯 |
 | ⚙️ **Back-end** | [![Backend](https://skillicons.dev/icons?i=java,python,nodejs,ruby)](https://skillicons.dev) |
 | 🚀 **Full Stack** | [![FullStack](https://skillicons.dev/icons?i=java,react,tailwind,spring)](https://skillicons.dev) 🎯 |
 | 🖥️ **Systems & Low Level** | [![Systems](https://skillicons.dev/icons?i=c,windows,git)](https://skillicons.dev) |
