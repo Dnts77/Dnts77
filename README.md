@@ -82,7 +82,7 @@ fun_fact: >
 ## ⚡ Tech Stack
 
 <div align="center">
-<sub>🎯 = technologies I'm actively working towards in 2026</sub>
+<sub>🎯 = technologies I'm actively working towards in 2026</sub> <br>
 <sub> the order of the stack means what is my main focus 💭</sub>
 </div>
 
