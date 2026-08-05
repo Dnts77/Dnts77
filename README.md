@@ -31,7 +31,7 @@ focus:
   - Systems Programming
 
 currently_learning:
-  - Flutter (Udemy)
+  - Full Stack development
   - Expanding the stack in 2026 🔥
 
 fun_fact: >
@@ -73,6 +73,7 @@ fun_fact: >
 | ⚙️ | **Eniac — Centro de Excelência** | Node.js for Backend | ✅ Done |
 | 📱 | **Udemy** | Flutter — Mobile Development | ✅ Done |
 | ☁️ | **AWS** | Introductory Machine Learning | ✅ Done |
+| 💻 | **Udemy** | Full Stack Development | 🔁 Ongoing |
 
 </div>
 
@@ -82,6 +83,7 @@ fun_fact: >
 
 <div align="center">
 <sub>🎯 = technologies I'm actively working towards in 2026</sub>
+<sub> the order of the stack means what is my main focus 💭</sub>
 </div>
 
 <br/>
@@ -92,10 +94,10 @@ fun_fact: >
 | Layer | Stack |
 |---|---|
 | 📱 **Mobile** | [![Mobile](https://skillicons.dev/icons?i=java,flutter,kotlin)](https://skillicons.dev) 🎯 |
-| 🎨 **Front-end** | [![Frontend](https://skillicons.dev/icons?i=astro,react,tailwind,ts,js,nextjs)](https://skillicons.dev) 🎯 |
 | ⚙️ **Back-end** | [![Backend](https://skillicons.dev/icons?i=java,python,nodejs,ruby)](https://skillicons.dev) |
-| 🚀 **Full Stack** | [![FullStack](https://skillicons.dev/icons?i=java,react,tailwind,spring)](https://skillicons.dev) 🎯 |
 | 🖥️ **Systems & Low Level** | [![Systems](https://skillicons.dev/icons?i=c,windows,git)](https://skillicons.dev) |
+| 🚀 **Full Stack** | [![FullStack](https://skillicons.dev/icons?i=java,react,tailwind,spring)](https://skillicons.dev) 🎯 |
+| 🎨 **Front-end** | [![Frontend](https://skillicons.dev/icons?i=astro,react,tailwind,ts,js,nextjs)](https://skillicons.dev) 🎯 |
 | 🤖 **Data / AI** | [![DataAI](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev) 🎯 |
 
 </div>
