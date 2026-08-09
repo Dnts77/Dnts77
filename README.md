@@ -25,10 +25,10 @@ location: Brazil 🇧🇷
 status: High school final year @ Eniac
 
 focus:
-  - Full Stack Development
-  - Data Engineering & AI
-  - Mobile Apps
-  - Systems Programming
+  - Mobile Applications
+  - Back-End Development
+  - Game Development
+  - Systems & Low Level Programming
 
 currently_learning:
   - Full Stack development
