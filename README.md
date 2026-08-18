@@ -50,7 +50,7 @@ fun_fact: >
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Dantas-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.souzadantas07@gmail.com)
 
 <br/>
 
