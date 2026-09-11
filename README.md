@@ -83,7 +83,7 @@ fun_fact: >
 
 <div align="center">
 <sub>🎯 = technologies I'm actively working towards in 2026</sub> <br>
-<sub> the order of the stack means what is my main focus 💭</sub>
+<sub> the order of the stack defines what is my main focus 💭</sub>
 </div>
 
 <br/>
