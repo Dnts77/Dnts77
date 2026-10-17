@@ -94,10 +94,10 @@ fun_fact: >
 | Layer | Stack |
 |---|---|
 | 📱 **Mobile** | [![Mobile](https://skillicons.dev/icons?i=flutter,java,kotlin)](https://skillicons.dev) 🎯 |
-| ⚙️ **Back-end** | [![Backend](https://skillicons.dev/icons?i=java,python,nodejs,ruby)](https://skillicons.dev) |
+| ⚙️ **Back-end** | [![Backend](https://skillicons.dev/icons?i=go,java,python,nodejs,ruby)](https://skillicons.dev) |
 | 🖥️ **Systems & Low Level** | [![Systems](https://skillicons.dev/icons?i=c,windows,git)](https://skillicons.dev) |
-| 🚀 **Full Stack** | [![FullStack](https://skillicons.dev/icons?i=java,react,tailwind,spring)](https://skillicons.dev) 🎯 |
-| 🎨 **Front-end** | [![Frontend](https://skillicons.dev/icons?i=astro,react,tailwind,ts,js,nextjs)](https://skillicons.dev) 🎯 |
+| 🚀 **Full Stack** | [![FullStack](https://skillicons.dev/icons?i=go,react,tailwind,nextjs)](https://skillicons.dev) 🎯 |
+| 🎨 **Front-end** | [![Frontend](https://skillicons.dev/icons?i=astro,react,tailwind,ts,js)](https://skillicons.dev) 🎯 |
 | 🤖 **Data / AI** | [![DataAI](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev) 🎯 |
 
 </div>
